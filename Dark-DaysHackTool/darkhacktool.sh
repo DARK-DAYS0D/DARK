@@ -244,9 +244,9 @@ cd $setdir
 banner
 echo ""
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}👑Kurucu              $white":" $red Dark-Days $tp ${blink}${lightgreen}                        |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}📌Github              $white":" $red https://github.com/DARK-DAYS0D $tp ${blink}${lightgreen}   |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}✨Instagram           $white":" $red dark_days0001$tp ${blink}${lightgreen}                     |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}👑Kurucu    $white":" $red Dark-Days $tp ${blink}${lightgreen}                     |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}📌Github    $white":" $red https://github.com/DARK-DAYS0D $tp ${blink}${lightgreen}|$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}✨Instagram $white":" $red dark_days0001$tp ${blink}${lightgreen}                  |$tp"
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp\n"
 echo "  ~~~~~~~~~~~~~~~~~~~~~✨ Dark-Days & Wortex HackTool ✨~~~~~~~~~~~~~~~~~~~~~~~~~" 
         echo ""
