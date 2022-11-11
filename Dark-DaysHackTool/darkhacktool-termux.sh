@@ -192,12 +192,12 @@ cd $setdir &> /dev/null
 clear
 banner
 echo ""
-echo -e "${blink}${lightgreen}  --------------------------------------------$tp\n"
+echo -e "${blink}${lightgreen}  ------------------------------------------$tp\n"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}🥀KURUCU    $white":" $red By DARK DAYS$tp ${blink}${lightgreen}           |$tp"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}✨Discord   $white":" $red https://discord.io/DARK $tp${blink}${lightgreen}|$tp"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}📌Github    $white":" $red https://github.com/DARK$tp ${blink}${lightgreen}|$tp"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}⭐Instagram $white":" $red @dark-days0001$tp ${blink}${lightgreen}         |$tp"
-echo -e "${blink}${lightgreen}  --------------------------------------------$tp\n"
+echo -e "${blink}${lightgreen}  ------------------------------------------$tp\n"
 echo " ~~~~~~~~~~~~~~~~~~~~~💥 By DarkDays Wortex Termux 💥~~~~~~~~~~~~~~~~~~~~~~~~~" 
         echo ""
         echo " [1] ✔ BluForce-FB" 
