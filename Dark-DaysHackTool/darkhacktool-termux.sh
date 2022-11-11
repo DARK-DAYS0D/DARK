@@ -181,7 +181,7 @@ function banner {
 trap ctrl_c INT
 ctrl_c() {
 echo -e "\n"
-echo -e "[${blink}${yellow}*${tp}]$red (Ctrl + C ) Tespit Edildi Cikiliyor...🐱‍👤$tp"
+echo -e "[${blink}${yellow}*${tp}]$red (Ctrl + C ) Tespit Edildi Cikiliyor..❌✨$tp"
 echo -e "[${blink}${yellow}*${tp}]$blue Dark HackTool Programini Tercih Ettiginiz Için Teşekkürler...💛  {💤DARKDAYS💤} :)$tp"
 exit 0
 }
