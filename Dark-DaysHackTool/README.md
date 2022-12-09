@@ -14,7 +14,7 @@ Programı İlk Çalıştırdığınız Zaman Öncelikli Olarak [19] Otomatik Gü
 
 Root Olarak Giriş Yapmadıysanız Root Olarak Giriş Yapınız Yada Komutların Başlarına "sudo" Komutunu Eklemeyi Unutmayınız ❕
 
-- WORTEX TEAM SUNARR.❤🌙
+- AyTeam SUNARR.❤🌙
 
 EN
 --
